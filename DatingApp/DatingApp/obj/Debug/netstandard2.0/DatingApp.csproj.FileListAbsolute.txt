@@ -1,0 +1,17 @@
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\bin\Debug\netstandard2.0\DatingApp.deps.json
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\bin\Debug\netstandard2.0\DatingApp.dll
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\bin\Debug\netstandard2.0\DatingApp.pdb
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.csproj.AssemblyReference.cache
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\Views\LandingTabbedPage.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\Views\MatchesContentPage.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.AssemblyInfoInputs.cache
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.AssemblyInfo.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.csproj.CoreCompileInputs.cache
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.dll
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\DatingApp.pdb
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\Views\HomePage.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\Views\ChatsPage.xaml.g.cs
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp\obj\Debug\netstandard2.0\Views\MyProfilePage.xaml.g.cs
