@@ -9,9 +9,9 @@
            BarBackgroundColor="White"
            NavigationPage.HasNavigationBar="False"
            android:TabbedPage.IsSwipePagingEnabled="True"
-            SelectedTabColor="Black"
-            UnselectedTabColor="Gray"
-            BarTextColor="Black">
+            SelectedTabColor="#D96363"
+            UnselectedTabColor="#8B8A94"
+            BarTextColor="#8B8A94">
 
     <views:MainPage/>
     <views:MatchesContentPage/>

@@ -653,3 +653,7 @@ C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\D
 C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\stamp\_GenerateJavaStubs.stamp
 C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\stamp\_GeneratePackageManagerJava.stamp
 C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\stamp\_ResolveLibraryProjectImports.stamp
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\res\drawable\discover.png
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\res\drawable\chat.png
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\res\drawable\profile.png
+C:\GItTester 1\Mobile App Testers\Dating App 2\DatingApp\DatingApp.Android\obj\Debug\100\res\drawable\likes.png
