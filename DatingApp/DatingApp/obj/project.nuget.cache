@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MgCGHKO97yjpdnsyiMeApyenil/JlLXJtn+wcFmcu3As+OMmL5CYACM9ew3GIHPDNSfWffM1XFvpgYV2arZEFw==",
+  "dgSpecHash": "nr3COLI3T8xM1Jw7zu+TViGmuYSz9ddp0p0Cylss108V83SHuUeh1YJsGpndrRb9fYe3dfSt1CQseI6WcfYb8w==",
   "success": true,
-  "projectFilePath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp\\DatingApp.csproj",
+  "projectFilePath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp\\DatingApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rahde\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\rahde\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

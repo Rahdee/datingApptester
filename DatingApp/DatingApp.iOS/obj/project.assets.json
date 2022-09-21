@@ -1726,11 +1726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
+      "projectUniqueName": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
       "projectName": "DatingApp.iOS",
-      "projectPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
+      "projectPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
       "packagesPath": "C:\\Users\\rahde\\.nuget\\packages\\",
-      "outputPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.iOS\\obj\\",
+      "outputPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1751,8 +1751,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp\\DatingApp.csproj": {
-              "projectPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp\\DatingApp.csproj"
+            "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp\\DatingApp.csproj": {
+              "projectPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp\\DatingApp.csproj"
             }
           }
         }

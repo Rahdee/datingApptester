@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NlqAGZt7eWl3fuSceaR0hyYFuxTzidmZl5V6xfCZmXwZ5Bue9LoKWp57ya5u5OJK9cUI35fDKoFQfvpSAje6RQ==",
+  "dgSpecHash": "lfYyGcyyHyud8/oJL41O1tMzX5Ol86/cshmSY0tHiChwZQg056Lv7KD4YZYDvJtxmUp0E1Mh8qKPif5uzu8kHA==",
   "success": true,
-  "projectFilePath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
+  "projectFilePath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.iOS\\DatingApp.iOS.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rahde\\.nuget\\packages\\prism.core\\8.1.97\\prism.core.8.1.97.nupkg.sha512",
     "C:\\Users\\rahde\\.nuget\\packages\\prism.forms\\8.1.97\\prism.forms.8.1.97.nupkg.sha512",

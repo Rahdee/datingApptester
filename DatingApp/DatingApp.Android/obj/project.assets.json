@@ -3730,11 +3730,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.Android\\DatingApp.Android.csproj",
+      "projectUniqueName": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.Android\\DatingApp.Android.csproj",
       "projectName": "DatingApp.Android",
-      "projectPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.Android\\DatingApp.Android.csproj",
+      "projectPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.Android\\DatingApp.Android.csproj",
       "packagesPath": "C:\\Users\\rahde\\.nuget\\packages\\",
-      "outputPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp.Android\\obj\\",
+      "outputPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -3755,8 +3755,8 @@
       "frameworks": {
         "monoandroid10.0": {
           "projectReferences": {
-            "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp\\DatingApp.csproj": {
-              "projectPath": "C:\\GItTester 1\\Mobile App Testers\\Dating App 2\\DatingApp\\DatingApp\\DatingApp.csproj"
+            "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp\\DatingApp.csproj": {
+              "projectPath": "C:\\GItTester 1\\Mobile App Testers\\TinderlikeApp\\DatingApp\\DatingApp\\DatingApp.csproj"
             }
           }
         }
